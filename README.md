@@ -36,8 +36,7 @@ Use the arrow keys to control Pac-Man:
 * Add levels with different layouts
 * Power-ups to eat ghosts
 * Scorekeeping 
-* ... (Add any other ideas you have!)
 
 ## Contact
 
-Feel free to submit issues or suggestions on the [GitHub repository](provide a link if you have one). 
+Feel free to submit issues or suggestions on the [GitHub repository](https://github.com/mykeyraye/PM). 
