@@ -17,7 +17,7 @@ A classic arcade game recreated in Python using the curses library.
 
 ### Running the Game
 
-1. Download or copy the code (named 'Untitled0.ipynb' in your example).  _**Note:** It might be good to rename this to something like 'pacman.py'._ 
+1. Download or copy the code 
 2. Open a terminal or command prompt.
 3. Navigate to the directory with the code file.
 4. Execute: `python pacman.py`
